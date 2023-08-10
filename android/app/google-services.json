@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "579176217844",
+    "project_id": "skincare-4b0e5c",
+    "storage_bucket": "skincare-4b0e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579176217844:android:bfab2e28466223f71772a1",
+        "android_client_info": {
+          "package_name": "com.example.skincare_recommendation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579176217844-uokrvtgrul5vv0lgbl1rj5vo8a560rep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-xntk9_Lv06RJ-KFStHaVrzs6Iu9FPRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579176217844-uokrvtgrul5vv0lgbl1rj5vo8a560rep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "579176217844-r129ugfl4nk621qv7s3tf29c1qstfr2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skincareRecommendation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
